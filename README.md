@@ -1,6 +1,6 @@
 # Machine-Learning-Projects
 
-## 1. Email Spam Classification
+## 1. Spam Classifier
 Python implementation of a spam classifier using different classifiers such as SVM and Naive Bayes using scikit-learn library.
 Dataset can be downloaded from : https://www.kaggle.com/benvozza/spam-classification/data
 
